@@ -6,7 +6,7 @@
   <img align="left" alt="Apurv's LinkdeIN" width="22px" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" />
 </a>
 <a href="https://leetcode.com/apurvshah123/">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" />
 </a>
 <a href="https://medium.com/@apurvshah2604">
   <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
