@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I am [DavidZenkay11](https://davidzenkay11.github.io)
 
-<a href="https://www.linkedin.com/in/apurv-shah/">
+<a href="https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/logo-html5">
   <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://leetcode.com/apurvshah123/">
