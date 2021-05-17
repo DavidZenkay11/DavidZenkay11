@@ -9,7 +9,7 @@
   <img align="left" alt="Apurv's Leetcode" width="22px" src="https://lh3.googleusercontent.com/proxy/dUakh2-yiOa-If0WxHzCUkQNu3N9cEDtj6furs-oN-HM2f6mcOa4E7BvQSw8KbBl1iM2oP9uH8AXugDmNBWLykD8kDf-D8UHUv1X1NAklCuNFg6vUQJ8QT1B_rp3p2j3c5aYpCYKdF2Se26xNlicY46hiABzXw" />
 </a>
 <a href="https://medium.com/@apurvshah2604">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"/>
 </a>
 <br />
 <br />
