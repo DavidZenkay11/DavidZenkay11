@@ -3,7 +3,7 @@
 ### Hi there 👋 I am [DavidZenkay11](https://davidzenkay11.github.io)
 
 <a href="https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/logo-html5">
-  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://www.stickpng.com/es/img/iconos-logotipos-emojis/companias-technologicas/logo-html5" />
+  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png" />
 </a>
 <a href="https://leetcode.com/apurvshah123/">
   <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
