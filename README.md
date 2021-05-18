@@ -32,7 +32,7 @@ Me llamo David Ezequiel Ledesma, tengo 17 años y estoy estudiando en el Institu
 </h4>
 </div>
 
-<div><p>My profile overview: </p></div>
+<div><p>Mis estadisticas generales: </p></div>
 
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=DavidZenkay11&show_icons=true&theme=synthwave)
 <br />
@@ -40,9 +40,6 @@ Me llamo David Ezequiel Ledesma, tengo 17 años y estoy estudiando en el Institu
 <br />
 <details>
 
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-</details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DavidZenkay11.DavidZenkay11)
 
