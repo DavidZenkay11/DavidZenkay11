@@ -11,7 +11,7 @@
 <a href="#">
   <img align="left" alt="Apurv's Leetcode" width="72px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"/>
 </a>
-<img align="left" width="132px" src="https://petermekhaeil.gallerycdn.vsassets.io/extensions/petermekhaeil/vscode-tailwindcss-explorer/0.4.0/1606213744749/Microsoft.VisualStudio.Services.Icons.Default"/>
+<img align="left" width="72px" src="https://petermekhaeil.gallerycdn.vsassets.io/extensions/petermekhaeil/vscode-tailwindcss-explorer/0.4.0/1606213744749/Microsoft.VisualStudio.Services.Icons.Default"/>
 <a href="#">
   <img align="left" alt="Apurv's Leetcode" width="72px" src="https://www.freeiconspng.com/thumbs/paint-tool-sai-icon/squared-icon-for-paint-tool-sai-icon-11.png"/>
 </a>
