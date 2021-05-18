@@ -20,6 +20,7 @@
  <br>
  <h2>
   Sobre Mi:
+ <h2/>
  <p>
 
 Me llamo David Ezequiel Ledesma, tengo 17 años y estoy estudiando en el Instituto Nuestra Señora de Las Nieves. Actualmente estoy en quinto año de informática. Disfruto de leer artículos en internet relacionados al diseño web. Me gusta dibujar y emplear mi tiempo libre en aprender cosas nuevas relacionadas al ámbito informático. 
