@@ -1,6 +1,6 @@
 
 
-### Hi there 👋 I am [DavidZenkay11](https://davidzenkay11.github.io)
+### Hola a todos! 👋 Me llamo [DavidZenkay11](https://davidzenkay11.github.io)
 
 <a href="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png">
   <img align="left" alt="Apurv's LinkdeIN" width="132px" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" />
@@ -18,9 +18,11 @@
 
 <div>
  <br>
+ <h2>
+  Sobre Mi:
  <p>
 
-I am 17 years old.
+Me llamo David Ezequiel Ledesma, tengo 17 años y estoy estudiando en el Instituto Nuestra Señora de Las Nieves. Actualmente estoy en quinto año de informática. Disfruto de leer artículos en internet relacionados al diseño web. Me gusta dibujar y emplear mi tiempo libre en aprender cosas nuevas relacionadas al ámbito informático. 
 
 
 </h4>
@@ -28,23 +30,11 @@ I am 17 years old.
 
 <div><p>My profile overview: </p></div>
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=DavidZenkay11&show_icons=true&theme=synthwave)
+![David's github stats](https://github-readme-stats.vercel.app/api?username=DavidZenkay11&show_icons=true&theme=synthwave)
 <br />
 <br />
 <br />
 <details>
-<summary>
-  Projects I am currently working on
-</summary>
-
-<br />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
-
-<br />
 
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
