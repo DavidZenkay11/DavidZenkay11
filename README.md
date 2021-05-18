@@ -12,7 +12,7 @@
   <img align="left" alt="Apurv's Leetcode" width="132px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"/>
 </a>
 <img align="left" width="132" src="https://petermekhaeil.gallerycdn.vsassets.io/extensions/petermekhaeil/vscode-tailwindcss-explorer/0.4.0/1606213744749/Microsoft.VisualStudio.Services.Icons.Default"/>
-<img align="left" width"132px" src="https://img.wattpad.com/484a85920991b2188765b5140f01fb94c4c46ab6/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f445a386a6b6b7a46463944334d413d3d2d34373639303838342e313434623735646139306436333061342e706e67?s=fit&w=720&h=720" />
+<img align="left" width"132px" src="https://aux.iconspalace.com/uploads/18566160411885064853.png" />
 <br />
 <br />
 
