@@ -32,9 +32,9 @@ Me llamo David Ezequiel Ledesma, tengo 17 años y estoy estudiando en el Institu
 </h4>
 <p> Actualmente conozco <p/>
 <ul>
-  <li> ✔ HTML <li/>
-  <li> ✔ CSS <li/>
-  <li> ✔ JS <li/>
+  <li> ✔ HTML
+  <li> ✔ CSS 
+  <li> ✔ JS 
 </div>
 
 <div><p>Mis estadisticas generales: </p></div>
