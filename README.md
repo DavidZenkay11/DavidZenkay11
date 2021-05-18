@@ -17,7 +17,7 @@
 <br />
 
 <div>
- <br>
+ <br />
  <h2>
   Sobre Mi:
  <h2/>
