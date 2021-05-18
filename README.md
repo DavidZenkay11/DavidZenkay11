@@ -39,8 +39,7 @@ Me llamo David Ezequiel Ledesma, tengo 17 años y estoy estudiando en el Institu
 <p> Este año voy a aprender <p/>
 <ul> 
   <li> Figma
-  <li> JSX
-  <li> JQuery
+  <li> React.JS
 <div><p>Mis estadisticas generales: </p></div>
 
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=DavidZenkay11&show_icons=true&theme=synthwave)
