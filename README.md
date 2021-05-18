@@ -1,6 +1,6 @@
 
 
-### Hola a todos! 👋 Me llamo [DavidZenkay11](https://davidzenkay11.github.io)
+### Hola a todos! 👋 Soy [DavidZenkay11](https://davidzenkay11.github.io)
 
 <a href="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png">
   <img align="left" alt="Apurv's LinkdeIN" width="132px" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" />
@@ -17,7 +17,7 @@
 </a>
 <br />
 <br />
-
+<br />
 <div>
  <br />
  <h2>
