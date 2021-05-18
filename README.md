@@ -36,15 +36,18 @@ Me llamo David Ezequiel Ledesma, tengo 17 años y estoy estudiando en el Institu
   <li> ✔ CSS 
   <li> ✔ JS 
 </div>
-
+<p> Este año voy a aprender <p/>
+<ul> 
+  <li> Figma
+  <li> JSX
+  <li> JQuery
 <div><p>Mis estadisticas generales: </p></div>
 
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=DavidZenkay11&show_icons=true&theme=synthwave)
 <br />
 <br />
 <br />
-<details>
-
+📫 Contacto: davidledesmabusiness@gmail.com
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DavidZenkay11.DavidZenkay11)
 
