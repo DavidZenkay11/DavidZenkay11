@@ -2,17 +2,17 @@
 
 ### Hola a todos! 👋 Soy [DavidZenkay11](https://davidzenkay11.github.io)
 
-<a href="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png">
+<a href="#">
   <img align="left" alt="Apurv's LinkdeIN" width="132px" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" />
 </a>
-<a href="https://leetcode.com/apurvshah123/">
+<a href="#">
   <img align="left" alt="Apurv's Leetcode" width="132px" src="https://lh3.googleusercontent.com/proxy/dUakh2-yiOa-If0WxHzCUkQNu3N9cEDtj6furs-oN-HM2f6mcOa4E7BvQSw8KbBl1iM2oP9uH8AXugDmNBWLykD8kDf-D8UHUv1X1NAklCuNFg6vUQJ8QT1B_rp3p2j3c5aYpCYKdF2Se26xNlicY46hiABzXw" />
 </a>
-<a href="https://medium.com/@apurvshah2604">
+<a href="#">
   <img align="left" alt="Apurv's Leetcode" width="132px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"/>
 </a>
 <img align="left" width="132px" src="https://petermekhaeil.gallerycdn.vsassets.io/extensions/petermekhaeil/vscode-tailwindcss-explorer/0.4.0/1606213744749/Microsoft.VisualStudio.Services.Icons.Default"/>
-<a href="https://medium.com/@apurvshah2604">
+<a href="#">
   <img align="left" alt="Apurv's Leetcode" width="132px" src="https://www.freeiconspng.com/thumbs/paint-tool-sai-icon/squared-icon-for-paint-tool-sai-icon-11.png"/>
 </a>
 <br />
