@@ -6,7 +6,7 @@
   <img align="left" alt="HTML" width="72px" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" />
 </a>
 <a href="#">
-  <img align="left" alt="CSS" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" />
+  <img align="left" alt="CSS" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" />
 </a>
 <a href="#">
   <img align="left" alt="JS" width="72px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"/>
