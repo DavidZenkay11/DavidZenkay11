@@ -3,17 +3,17 @@
 ### Hola a todos! 👋 Soy [DavidZenkay11](https://davidzenkay11.github.io)
 
 <a href="#">
-  <img align="left" alt="Apurv's LinkdeIN" width="72px" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" />
+  <img align="left" alt="HTML" width="72px" src="http://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" />
 </a>
 <a href="#">
-  <img align="left" alt="Apurv's Leetcode" width="72px" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />
+  <img align="left" alt="CSS" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Apurv's Leetcode" width="72px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"/>
+  <img align="left" alt="JS" width="72px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"/>
 </a>
 <img align="left" width="72px" src="https://petermekhaeil.gallerycdn.vsassets.io/extensions/petermekhaeil/vscode-tailwindcss-explorer/0.4.0/1606213744749/Microsoft.VisualStudio.Services.Icons.Default"/>
 <a href="#">
-  <img align="left" alt="Apurv's Leetcode" width="72px" src="https://www.freeiconspng.com/thumbs/paint-tool-sai-icon/squared-icon-for-paint-tool-sai-icon-11.png"/>
+  <img align="left" alt="SAI" width="72px" src="https://www.freeiconspng.com/thumbs/paint-tool-sai-icon/squared-icon-for-paint-tool-sai-icon-11.png"/>
 </a>
 <br />
 <br />
