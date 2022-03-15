@@ -40,6 +40,7 @@ Me llamo David Ezequiel Ledesma, tengo 17 años y estoy estudiando en el Institu
   <li> ✔ JavaScript 
   <li> ✔ React.JS
   <li> ✔ Figma 
+  <li> ✔ TailwindCSS 
 </div>
 <p> Este año voy a aprender <p/>
 <ul> 
