@@ -15,6 +15,9 @@
 <a href="#">
   <img align="left" alt="SAI" width="72px" src="https://www.freeiconspng.com/thumbs/paint-tool-sai-icon/squared-icon-for-paint-tool-sai-icon-11.png"/>
 </a>
+<a href="#">
+  <img align="left" alt="JS" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"/>
+</a>
 <br />
 <br />
 <br />
@@ -34,12 +37,14 @@ Me llamo David Ezequiel Ledesma, tengo 17 años y estoy estudiando en el Institu
 <ul>
   <li> ✔ HTML
   <li> ✔ CSS 
-  <li> ✔ JS 
+  <li> ✔ JavaScript 
+  <li> ✔ React.JS
+  <li> ✔ Figma 
 </div>
 <p> Este año voy a aprender <p/>
 <ul> 
-  <li> Figma
-  <li> React.JS
+  <li> C++
+  <li> C#
 <div><p>Mis estadisticas generales: </p></div>
 
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=DavidZenkay11&show_icons=true&theme=synthwave)
